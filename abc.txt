@@ -1,4 +1,4 @@
-HEAD
+
 zmiany zmiany zmiany amiznayzminay 
 zmiany zmiany zmianby
 zmiany zmiany
@@ -9,3 +9,6 @@ nowy_branch
 ??????????
 Scos wicej coes wiecej 
 cos wiecej
+
+lalalalalalal
+
